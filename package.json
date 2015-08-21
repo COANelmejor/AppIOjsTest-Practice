@@ -1,0 +1,19 @@
+{
+  "name": "appios-test_practice",
+  "version": "1.0.0",
+  "description": "Chat en tiempo real con video y Gif's",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COANelmejor/AppIOjsTest-Practice.git"
+  },
+  "author": "COANelmejor <coanelmejor@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/COANelmejor/AppIOjsTest-Practice/issues"
+  },
+  "homepage": "https://github.com/COANelmejor/AppIOjsTest-Practice#readme"
+}
